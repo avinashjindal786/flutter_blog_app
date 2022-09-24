@@ -6,7 +6,7 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/blog-8b3c2.appspot.com/o/Screenshot_1664017961.png?alt=media&token=06d77517-9d66-48d9-a4f5-43156299df86" width="350"></img>
 </p>
 <br>
-h3 align="center" style="color:green" >2. SignUp Page</h3>
+<h3 align="center" style="color:green" >2. SignUp Page</h3>
  <p align="center">
 <img src="https://firebasestorage.googleapis.com/v0/b/blog-8b3c2.appspot.com/o/Screenshot_1664018008.png?alt=media&token=59d3b738-607e-4207-84cf-9e9fd1f3823c" width="350"></img>
 </p>
