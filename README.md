@@ -42,13 +42,17 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/blog-8b3c2.appspot.com/o/Screenshot_1664018050.png?alt=media&token=8b3a7c97-3046-43bc-9419-3e13d035aa49" width="350"></img>
 </p>
 <br>
-<h3  align="center" >11. Add Blog Page </h3>
+<h3  align="center" >9. Add Blog Page </h3>
 <p align="center">
 <img src="https://firebasestorage.googleapis.com/v0/b/blog-8b3c2.appspot.com/o/Screenshot_1664018058.png?alt=media&token=dd0af655-af94-485d-960f-52691ea1c946" width="350"></img>
 </p>
 <br>
 
-
+<h3  align="center" >10. Add Local Notification </h3>
+<p align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/blog-8b3c2.appspot.com/o/Screenshot_1664018080.png?alt=media&token=d06bd86f-0841-4f08-8610-df747f619c3e" width="350"></img>
+</p>
+<br>
 ### To use this app follow below instructions-:
 
 1. Clone this app using below syntax -:
